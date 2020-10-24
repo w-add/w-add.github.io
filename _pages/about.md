@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Title change test
 permalink: /about/
 image: 01.jpg
 ---
