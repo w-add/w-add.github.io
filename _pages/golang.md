@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Title change test
+title: golang
 permalink: /golang/
 image: 01.jpg
 ---

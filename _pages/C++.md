@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Title change test
+title: C++
 permalink: /cpp/
 image: 01.jpg
 ---

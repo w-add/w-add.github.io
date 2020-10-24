@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Title change test
+title: daylife
 permalink: /daylife/
 image: 01.jpg
 ---
