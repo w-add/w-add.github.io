@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Title change test
-permalink: /about/
+permalink: /golang/
 image: 01.jpg
 ---
 
